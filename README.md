@@ -1,5 +1,7 @@
-Formulário Simples de Usuário 
+Formulário Simples de Usuário
+
 Descrição 
+
 Este projeto é uma atividade que envolve o desenvolvimento de um formulário em Angular para coletar informações pessoais e de endereço de um usuário.
 
 Tecnologias Utilizadas 
