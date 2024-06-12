@@ -1,0 +1,10 @@
+<!-- src/app/user-form/user-form.component.html -->
+<h1>Formulário de Cadastro</h1>
+<form [formGroup]="userForm" (ngSubmit)="onSubmit()">
+  <label for="nomeCompleto">Nome Completo:</label>
+  <input type="text" id="nomeCompleto" formControlName="nomeCompleto">
+
+  <!-- Adicione os outros campos do formulário aqui -->
+
+  <button type="submit">Enviar</button>
+</form>
